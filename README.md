@@ -56,7 +56,7 @@ C:\wamp\www\vscode_git>
 
 //procedimentos para envio das alteraçãoes para os repositórios do GitHub.
 A letra "U" ao lado dos arquivos significa "Untracked", que quer dizer alteração não rastreada.
-1. Estagiar todas as alterações
-2. Preencher a descrição 
-3. Confitmar os "stages".
+1. Estagiar todas as alterações (+).
+2. Preencher a descrição (Mensagem).
+3. Confitmar os "Stages".
 4. Enviar po "push".
