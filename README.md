@@ -1,10 +1,12 @@
 # vscodeteste
-Tutorial de uso do git o vscode.
+Tutorial de uso do git no vscode.
 //retornando à pasta "vscode_projects", dois níveis acima, na árvore de diretórios de C:\
 C:\wamp\www\vscode_projects\html>cd ..
 C:\wamp\www\vscode_projects>cd ..
+
 //listando as pastas no diretório "www".
 C:\wamp\www>dir
+
  O volume na unidade C não tem nome.
  O Número de Série do Volume é 0E89-71D8
 
@@ -51,3 +53,10 @@ remote: Total 19 (delta 3), reused 15 (delta 2), pack-reused 0
 Unpacking objects: 100% (19/19), 2.44 KiB | 1024 bytes/s, done.
 
 C:\wamp\www\vscode_git>
+
+//procedimentos para envio das alteraçãoes para os repositórios do GitHub.
+A letra "U" ao lado dos arquivos significa "Untracked", que quer dizer alteração não rastreada.
+1. Estagiar todas as alterações
+2. Preencher a descrição 
+3. Confitmar os "stages".
+4. Enviar po "push".
